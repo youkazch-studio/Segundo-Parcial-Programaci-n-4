@@ -1,0 +1,31 @@
+Universidad Gerardo Barrios
+Facultad de Ciencia y Tecnología
+Ingeniería en Sistemas y Redes Informáticas
+  
+  
+ASIGNATURA:  
+programación computación IV.
+
+
+TEMA:
+Contenido a Desarrollar (Desarrollo de la base de datos en Laravel.)
+
+NOMBRE DE LA ACTIVIDAD:  
+Parcial 2 computo 2 – Semana 13.
+
+PRESENTADO POR:   
+SMSS136723 – Cantarero Arias, Melissa Abigail.
+SMIS030921 – Cruz Ventura, Ulises Arquimides.
+SMIS0222521 – Diaz Segovia, Eliezer Benjamín.
+SMSS063723 - Mendiola Requeno, Ivette Azucena.
+SMIS091121 – Zelaya Chávez, Kevin Alejandro.
+
+DOCENTE:  
+Ing. Willian Alexis Montes Girón.
+
+CICLO IX - 2025   
+
+San Miguel, abril 06 de 2025
+
+Enlace de la base de datos: https://dbdiagram.io/d/Base-de-datos-Taks-Pro-680b0f051ca52373f54c6953
+
